@@ -19,3 +19,6 @@ let thirdcode = (80/2)-1;
 console.log(thirdcode);
 alert(thirdcode);
 
+const finalcombo = "Good work! The combination is 10 40 39!";
+console.log(finalcombo)
+alert(finalcombo);
